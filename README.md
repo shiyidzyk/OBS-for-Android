@@ -18,7 +18,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/Keee7/OBS-for-Android/releases"><img src="https://img.shields.io/github/v/release/Keee7/OBS-for-Android?style=flat-square&color=2563EB&label=Release" alt="Release"></a>
+    <a href="https://github.com/shiyidzyk/OBS-for-Android/releases"><img src="https://img.shields.io/github/v/release/shiyidzyk/OBS-for-Android?style=flat-square&color=2563EB&label=Release" alt="Release"></a>
     <a href="https://github.com/Keee7/OBS-for-Android/actions/workflows/build-apk.yml"><img src="https://img.shields.io/github/actions/workflow/status/Keee7/OBS-for-Android/build-apk.yml?branch=main&style=flat-square&label=Build" alt="Build Status"></a>
     <img src="https://img.shields.io/badge/Platform-Android%2010%2B%20(API%2029%2B)-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform">
     <img src="https://img.shields.io/badge/Arch-arm64--v8a-4F46E5?style=flat-square" alt="Architecture">
@@ -29,9 +29,16 @@
   <p>
     <a href="README.md"><b>English</b></a> &nbsp;•&nbsp;
     <a href="README_CN.md"><b>简体中文</b></a> &nbsp;•&nbsp;
-    <a href="https://github.com/Keee7/OBS-for-Android/releases"><b>Download APK</b></a> &nbsp;•&nbsp;
+    <a href="https://github.com/shiyidzyk/OBS-for-Android/releases"><b>Download APK</b></a> &nbsp;•&nbsp;
     <a href="BUILDING.md"><b>Build Guide</b></a> &nbsp;•&nbsp;
     <a href="CONTRIBUTING.md"><b>Contributing</b></a>
+  </p>
+
+  <p>
+    <sub>⚠️ This fork publishes a patched build that fixes the crash when an accessibility
+    service is enabled — see <a href="A11Y-DEADLOCK-FIX.md"><b>Accessibility Deadlock Fix</b></a>
+    (<a href="https://github.com/shiyidzyk/OBS-for-Android/releases/tag/v0.2.1-a11y-deadlock-fix">download</a>,
+    PR <a href="https://github.com/Keee7/OBS-for-Android/pull/12">#12</a>).</sub>
   </p>
 
   <br />

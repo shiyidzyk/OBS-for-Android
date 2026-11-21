@@ -18,7 +18,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/Keee7/OBS-for-Android/releases"><img src="https://img.shields.io/github/v/release/Keee7/OBS-for-Android?style=flat-square&color=2563EB&label=Release" alt="Release"></a>
+    <a href="https://github.com/shiyidzyk/OBS-for-Android/releases"><img src="https://img.shields.io/github/v/release/shiyidzyk/OBS-for-Android?style=flat-square&color=2563EB&label=Release" alt="Release"></a>
     <a href="https://github.com/Keee7/OBS-for-Android/actions/workflows/build-apk.yml"><img src="https://img.shields.io/github/actions/workflow/status/Keee7/OBS-for-Android/build-apk.yml?branch=main&style=flat-square&label=Build" alt="Build Status"></a>
     <img src="https://img.shields.io/badge/Platform-Android%2010%2B%20(API%2029%2B)-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Platform">
     <img src="https://img.shields.io/badge/Arch-arm64--v8a-4F46E5?style=flat-square" alt="Architecture">
@@ -29,9 +29,16 @@
   <p>
     <a href="README.md"><b>English</b></a> &nbsp;•&nbsp;
     <a href="README_CN.md"><b>简体中文</b></a> &nbsp;•&nbsp;
-    <a href="https://github.com/Keee7/OBS-for-Android/releases"><b>下载安装包</b></a> &nbsp;•&nbsp;
+    <a href="https://github.com/shiyidzyk/OBS-for-Android/releases"><b>下载安装包</b></a> &nbsp;•&nbsp;
     <a href="BUILDING.md"><b>构建指南</b></a> &nbsp;•&nbsp;
     <a href="CONTRIBUTING.md"><b>参与贡献</b></a>
+  </p>
+
+  <p>
+    <sub>⚠️ 本 fork 发布的构建已修复「开启无障碍服务后创建新窗口闪退」问题 —— 详见
+    <a href="A11Y-DEADLOCK-FIX.md"><b>无障碍死锁修复说明</b></a>
+    （<a href="https://github.com/shiyidzyk/OBS-for-Android/releases/tag/v0.2.1-a11y-deadlock-fix">下载修复包</a>，
+    上游 PR <a href="https://github.com/Keee7/OBS-for-Android/pull/12">#12</a>）。</sub>
   </p>
 
   <br />
