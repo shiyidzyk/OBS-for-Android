@@ -99,7 +99,7 @@ OBS Studio 的 Android 平台移植版本，支持场景编辑、多来源输入
 
 ## 快速上手
 
-1. **获取安装包**：从 [Releases](https://github.com/Keee7/OBS-for-Android/releases) 下载最新的测试 APK，或参考 [构建说明](BUILDING.md) 自行编译。
+1. **获取安装包**：从 [Releases](https://github.com/shiyidzyk/OBS-for-Android/releases) 下载最新的测试 APK，或参考 [构建说明](BUILDING.md) 自行编译。
 2. **安装**：
    ```sh
    adb install -r path/to/obs-android.apk

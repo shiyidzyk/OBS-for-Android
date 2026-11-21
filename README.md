@@ -99,7 +99,7 @@ Based on [cunminF/OBS_for_Android](https://github.com/cunminF/OBS_for_Android) a
 
 ## Getting Started
 
-1. **Obtain the APK**: Download the latest build from [Releases](https://github.com/Keee7/OBS-for-Android/releases), or build from source following [BUILDING.md](BUILDING.md).
+1. **Obtain the APK**: Download the latest build from [Releases](https://github.com/shiyidzyk/OBS-for-Android/releases), or build from source following [BUILDING.md](BUILDING.md).
 2. **Installation**:
    ```sh
    adb install -r path/to/obs-android.apk
